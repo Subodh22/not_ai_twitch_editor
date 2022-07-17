@@ -8,3 +8,5 @@ for file in files:
         print(":}")
     else:
         print(os.path.basename(file))
+
+print("okay funding secured")

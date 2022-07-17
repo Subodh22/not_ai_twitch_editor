@@ -1,0 +1,4 @@
+
+first 1. videoeditor (input=>[streamer_name_folder(videos)])->algo->(output=>[output_xqc(videos),thumbnails_bg])
+second 2. thumbnail_maker.py(input=>[thumbnails_bg,streamerhead])->algo(output[act_thumbnails(streamer)])
+third 3 .master.py -> streamer_name(videos)
